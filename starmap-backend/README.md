@@ -25,7 +25,7 @@
 
 ```sh
 git clone https://github.com/tguastafierro/starmap-navigator-backend
-cd starmap-navigator
+cd starmap-backend
 ```
 
 ### 2️⃣ Install Dependencies
