@@ -1,0 +1,207 @@
+{
+  "starSystems": [
+    {
+      "id": "alpha-centauri",
+      "name": "Alpha Centauri",
+      "starType": "G2V + K1V",
+      "distance": 4.37,
+      "habitability": true,
+      "coordinates": {
+        "x": 123.45,
+        "y": -234.56,
+        "z": 345.67
+      },
+      "resources": [
+        "minerals",
+        "gases",
+        "water"
+      ],
+      "age": 5.3,
+      "rotationSpeed": 2.0,
+      "magneticField": 1.0,
+      "luminosity": 1.1,
+      "temperature": 5600,
+      "mass": 1.0
+    },
+    {
+      "id": "epsilon-eridani",
+      "name": "Epsilon Eridani",
+      "starType": "K2V",
+      "distance": 10.5,
+      "habitability": true,
+      "coordinates": {
+        "x": -312.34,
+        "y": 278.91,
+        "z": -145.67
+      },
+      "resources": [
+        "minerals",
+        "water",
+        "organic compounds"
+      ],
+      "age": 0.8,
+      "rotationSpeed": 4.0,
+      "magneticField": 3.0,
+      "luminosity": 0.33,
+      "temperature": 5100,
+      "mass": 0.82
+    },
+    {
+      "id": "wolf-1061",
+      "name": "Wolf 1061",
+      "starType": "M3V",
+      "distance": 14.0,
+      "habitability": true,
+      "coordinates": {
+        "x": 412.34,
+        "y": -389.12,
+        "z": 56.78
+      },
+      "resources": [
+        "minerals",
+        "water",
+        "gases"
+      ],
+      "age": 7.0,
+      "rotationSpeed": 1.5,
+      "magneticField": 500,
+      "luminosity": 0.01,
+      "temperature": 3400,
+      "mass": 0.3
+    },
+    {
+      "id": "61-cygni",
+      "name": "61 Cygni",
+      "starType": "K5V + K7V",
+      "distance": 11.4,
+      "habitability": true,
+      "coordinates": {
+        "x": -150.0,
+        "y": 210.0,
+        "z": 450.0
+      },
+      "resources": [
+        "minerals",
+        "water"
+      ],
+      "age": 6.0,
+      "rotationSpeed": 3.0,
+      "magneticField": 2.0,
+      "luminosity": 0.3,
+      "temperature": 4500,
+      "mass": 0.7
+    },
+    {
+      "id": "luyten-726-8",
+      "name": "Luyten 726-8",
+      "starType": "M5.5V + M6V",
+      "distance": 8.7,
+      "habitability": false,
+      "coordinates": {
+        "x": 470.0,
+        "y": -310.0,
+        "z": -220.0
+      },
+      "resources": [
+        "minerals",
+        "ice"
+      ],
+      "age": 8.0,
+      "rotationSpeed": 1.0,
+      "magneticField": 600,
+      "luminosity": 0.005,
+      "temperature": 3000,
+      "mass": 0.2
+    },
+    {
+      "id": "ross-128",
+      "name": "Ross 128",
+      "starType": "M4V",
+      "distance": 11.0,
+      "habitability": true,
+      "coordinates": {
+        "x": -275.0,
+        "y": 175.0,
+        "z": 125.0
+      },
+      "resources": [
+        "minerals",
+        "water",
+        "organic compounds"
+      ],
+      "age": 6.0,
+      "rotationSpeed": 1.5,
+      "magneticField": 300,
+      "luminosity": 0.0025,
+      "temperature": 3200,
+      "mass": 0.18
+    },
+    {
+      "id": "kapteyns-star",
+      "name": "Kapteyn's Star",
+      "starType": "M1V",
+      "distance": 12.8,
+      "habitability": true,
+      "coordinates": {
+        "x": 320.0,
+        "y": 110.0,
+        "z": -360.0
+      },
+      "resources": [
+        "minerals",
+        "water",
+        "gases"
+      ],
+      "age": 11.0,
+      "rotationSpeed": 2.0,
+      "magneticField": 1.0,
+      "luminosity": 0.011,
+      "temperature": 3700,
+      "mass": 0.28
+    },
+    {
+      "id": "teegardens-star",
+      "name": "Teegarden's Star",
+      "starType": "M6.5V",
+      "distance": 12.5,
+      "habitability": true,
+      "coordinates": {
+        "x": -425.0,
+        "y": -215.0,
+        "z": 310.0
+      },
+      "resources": [
+        "minerals",
+        "water"
+      ],
+      "age": 7.0,
+      "rotationSpeed": 1.0,
+      "magneticField": 800,
+      "luminosity": 0.0008,
+      "temperature": 2900,
+      "mass": 0.09
+    },
+    {
+      "id": "procyon",
+      "name": "Procyon",
+      "starType": "F5IV + DQZ",
+      "distance": 11.46,
+      "habitability": false,
+      "coordinates": {
+        "x": 60.0,
+        "y": 240.0,
+        "z": -140.0
+      },
+      "resources": [
+        "rare gases",
+        "minerals"
+      ],
+      "age": 1.7,
+      "rotationSpeed": 10.0,
+      "magneticField": 2.0,
+      "luminosity": 7.0,
+      "temperature": 6500,
+      "mass": 1.5
+    }
+  ]
+}
