@@ -24,7 +24,7 @@
 ### 1️⃣ Clone the Repository
 
 ```sh
-git clone https://github.com/yourusername/starmap-navigator.git
+git clone https://github.com/tguastafierro/starmap-navigator-backend
 cd starmap-navigator
 ```
 
